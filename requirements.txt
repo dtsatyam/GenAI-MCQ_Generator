@@ -4,5 +4,6 @@ streamlit
 python-dotenv
 PyPDF2
 ipykernel
+langchain_openai
 
 # -e .
